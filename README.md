@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sagar Ganesh Pachare
 - 👀 I’m interested in Backend Development & Android Development
 - 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on backend of project in Nodejs and PHP 
 - 📫 You can contack me on linkedin.com/sagarpachare
 
 <!---
