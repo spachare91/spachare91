@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar Ganesh Pachare
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently looking for Nodejs Development Internship
+- 🌱 I’m currently working as a Nodejs DeveloperIntern.
 - 💞️ I’m looking to collaborate on backend projects in Nodejs.
 - 📫 You can contact me on linkedin.com/sagarpachare
 
